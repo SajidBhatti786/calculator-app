@@ -1,70 +1,84 @@
-# Getting Started with Create React App
+# React Calculator App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Calculator App](https://w7.pngwing.com/pngs/724/729/png-transparent-calculator-calculator-electronics-calculator-technology-thumbnail.png)
 
-## Available Scripts
+This is a simple calculator application built using React. It provides basic arithmetic operations and has a user interface designed to resemble a real calculator.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- Addition: Perform addition operations.
+- Subtraction: Perform subtraction operations.
+- Multiplication: Perform multiplication operations.
+- Division: Perform division operations.
+- Clear: Reset the calculator display and current calculation.
+- Calculate: Evaluate the current calculation and display the result.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Installation
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Follow these steps to run the calculator app locally:
 
-### `npm test`
+1. Clone the repository:
+   git clone https://github.com/SajidBhatti786/calculator-app.git
+   
+2. Navigate to the project directory:
+   cd react-calculator
+   
+3. Install the dependencies:
+   npm install
+   
+4. Run the app:
+   npm start
+   
+The app will be accessible at `http://localhost:3000` in your browser.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Usage
 
-### `npm run build`
+1. Enter numbers using the provided number buttons.
+2. Use the operation buttons (+, -, *, /) to perform calculations.
+3. Press the Calculate button (=) to evaluate the current calculation and display the result.
+4. Press the Clear button (C) to reset the display and start a new calculation.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Technologies Used
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- React
+- JavaScript
+- CSS
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Demo
 
-### `npm run eject`
+[![Video Demo](https://w7.pngwing.com/pngs/724/729/png-transparent-calculator-calculator-electronics-calculator-technology-thumbnail.png)](https://drive.google.com/file/d/1Uu9dpVTUDVzS44w63tQdqbNTE8h0C3DQ/preview)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contributing
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Contributions are welcome! If you find any issues or have suggestions for improvements, please submit a pull request or open an issue on the GitHub repository.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Connect with me
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/profile.php?id=100026991042689&mibextid=ZbWKwL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sajid-bhatti-b2436b24a)
+[![GitHub](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=social)](https://github.com/SajidBhatti786)
 
-## Learn More
+## Keywords
+- React calculator
+- Calculator app
+- Arithmetic operations
+- Real calculator UI
+- HTML, CSS, JavaScript
+- Data binding
+- User input handling
+- Calculation logic
+- Basic arithmetic functions
+- Interactive UI
+- Responsive design
+- Component-based architecture
+- State management
+- Event handling
+- Functional programming
+- React hooks
+- Web development
+- Front-end development
+- UI/UX design
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
